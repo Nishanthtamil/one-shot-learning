@@ -17,4 +17,6 @@ The model uses a Siamese network, which consists of two identical sub-networks s
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nishanthtamil/one-shot-learning.git
-
+2.requirements:
+   ```bash
+   pip install -r Requirements.txt
